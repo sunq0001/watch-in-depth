@@ -1,6 +1,6 @@
 {
   "name": "watch-in-depth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "watch nested objects, array and json",
   "main": "dist/watch-in-depth",
   "typings": "dist/watch-in-depth",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunq0001/deep-in-watch.git"
+    "url": "git+https://github.com/sunq0001/watch-in-depth.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
