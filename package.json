@@ -1,6 +1,6 @@
 {
   "name": "watch-in-depth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "watch nested objects, array and json",
   "main": "dist/watch-in-depth",
   "typings": "dist/watch-in-depth",
