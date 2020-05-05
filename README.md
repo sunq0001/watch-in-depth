@@ -144,5 +144,11 @@ let fn2 = () =>console.log('readCallback');
 let fn3 = () =>console.log('changedCallback'); 
 watchable.on('updated, read, changed', fn1, fn2, fn3)
 ```
+## Revoke watch-in-depth
+You can stop the watch so that no events trigger any more.
+
+```js
+obj = watchable.revoke(obj)
+```
 
 
